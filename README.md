@@ -1,6 +1,10 @@
 # Quebec-Java-Digital
 Repositório para guardar projetos do bootcamp Québec Java Digital
 
+## Branchs e seus conteúdos
+- [meuPrimeiroProjeto](https://github.com/MarcusViniLima/Quebec-Java-Digital/tree/meuPrimeiroProjeto)
+  - API desenvolvida durante o treinamento Quebec Java Digital, durante as aulas sobre Introdução ao Spring Framework.
+
 ## Tecnologias e ferramentas utilizadas
 - Spring Framework
 - Vs Code
